@@ -1,0 +1,11 @@
+D:\ServiceBusApps\Test-App\Test-App\bin\Debug\netcoreapp3.1\Test-App.exe
+D:\ServiceBusApps\Test-App\Test-App\bin\Debug\netcoreapp3.1\Test-App.deps.json
+D:\ServiceBusApps\Test-App\Test-App\bin\Debug\netcoreapp3.1\Test-App.runtimeconfig.json
+D:\ServiceBusApps\Test-App\Test-App\bin\Debug\netcoreapp3.1\Test-App.runtimeconfig.dev.json
+D:\ServiceBusApps\Test-App\Test-App\bin\Debug\netcoreapp3.1\Test-App.dll
+D:\ServiceBusApps\Test-App\Test-App\bin\Debug\netcoreapp3.1\Test-App.pdb
+D:\ServiceBusApps\Test-App\Test-App\obj\Debug\netcoreapp3.1\Test-App.csprojAssemblyReference.cache
+D:\ServiceBusApps\Test-App\Test-App\obj\Debug\netcoreapp3.1\Test-App.AssemblyInfoInputs.cache
+D:\ServiceBusApps\Test-App\Test-App\obj\Debug\netcoreapp3.1\Test-App.AssemblyInfo.cs
+D:\ServiceBusApps\Test-App\Test-App\obj\Debug\netcoreapp3.1\Test-App.dll
+D:\ServiceBusApps\Test-App\Test-App\obj\Debug\netcoreapp3.1\Test-App.pdb
